@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Violin",
+        "description": "The violin could be said to define the orchestra, but it may be a little provocative to suggest that everything else is there merely as an accompaniment. The other strings just fill out the lower harmonies, woodwinds provide pleasantly contrasting timbres, the brass is for added power when you need it and the percussion creates crisper edges and the occasional crash, but there would be no orchestra without the violin at its heart.",
+        "imageName": "violin"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Viola",
+        "description": "Not simply a big violin, the viola has its own distinct qualities and serves an essential function in orchestral music. The viola’s tone is thicker and darker than the violin which makes it perfect for providing resonant solo passages in the middle of the orchestral range and the perfect antidote to the penetrating, crystal quality of the violin. It also blends particularly well with the clarinet and bassoon.",
+        "imageName": "viola"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Cello",
+        "description": "The word cello is actually just an abbreviation of violoncello, an Italian word meaning “little violone”. A violone was an instrument common in the 17th and 18th centuries which evolved into today’s double bass. The cello is the tenor voice in the string section. It can play an octave lower than the viola and, as with the other Strings, the cello section sits two to a desk.",
+        "imageName": "cello"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Double Bass",
+        "description": "The double bass is the largest string instrument in the orchestra and with its warm, deep tones it is often thought of as the supporting the rest of the orchestra. The double-bass sometimes comes to the fore with a solo or a particularly prominent part, but mostly it is in the background supporting the harmonies, creating rhythms and adding its rich tone to the overall orchestral mix.",
+        "imageName": "doublebass"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Flute",
+        "description": "The flute is perhaps the best known member of the woodwind family and flute solos are among the most magical moments in orchestral music. As well as being capable of extreme virtuosity the flute can create beautiful sustained melodies. It also blends perfectly with all instruments and spends much of its time providing background colour to foreground activity elsewhere in the orchestra.",
+        "imageName": "flute"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "Piccolo",
+        "description": "The fingering is identical to that of the flute and flute players often alternate with piccolo. Beethoven’s Fifth Symphony is the piccolo’s debut in a major work, where it adds a bright florescence to the Finale. Beethoven’s delighted rushes and trills also caught on, and the piccolo quickly became the go-to instrument for jubilation, a faculty it has never lost.",
+        "imageName": "piccolo"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "Oboe",
+        "description": "Historically, the woodwind section was formed around the soprano of the double-reed family, but the oboe has an even more ostentatious pride of place. The oboe and its larger relative, the cor anglais both produce a beautiful, sweet, haunting sound. When used as solo instruments the sound is sometimes described as a ‘pastoral’ sound. This is because they are descended from the type of reed instruments that have been used in folk music and by shepherds the world over for thousands of years.",
+        "imageName": "oboe"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "Cor Anglais",
+        "description": "The first thing always mentioned about the English horn, the alto of the double-reed family, is that it is neither English nor is it a horn. To make matters more confusing, the instrument is often referred to by its French name, the cor anglais, all for obscure reasons. About one-and-a-half times the size of the oboe, the English horn is immediately recognised by its pronounced, pear-shaped bell. The sound is similar to, if slightly less honky than, the oboe, thickening nicely in the lower register.",
+        "imageName": "coranglais"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "Clarinet",
+        "description": "Clarinets are known for their smooth, creamy tone: warm and resonant low down, bright and clear up high. The clarinet’s plaintive, clear sound can be perfect for a romantic melody or when agitated for creating angular accented textures and effects. They can make a surprisingly loud sound or play incredibly softly. Clarinets are also associated with the sound of jazz and are perfect for producing the typically rhythmic, swooping, rippling sounds of traditional jazz and swing.",
+        "imageName": "clarinet"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "Bass Clarinet",
+        "description": "Larger and differently shaped than the standard clarinets, the bass clarinet has a darker timbre that composers often exploit for expressions of gloom and doom, as Mahler does in his Sixth Symphony. However, the bass clarinet also shares the higher clarinets’ wood-rich glow and can provide a satisfyingly comforting sound. Like a saxophone (which was influenced by the earlier bass clarinet), the instrument has a metal upturned bell and a curved metal crook to which the mouthpiece is attached, but it retains the maple-wood body.",
+        "imageName": "bassclarinet"
+    }
+]
